@@ -5,12 +5,6 @@ Agri Connect Hub was developed using HTML, CSS, and JavaScript. The primary goal
 
 #### Website link : https://nagireddy-seelam.github.io/E-Commerce/
 
-## Project Details
-
-The Agri Connect Hub platform is crafted using the following technologies:
-- HTML
-- CSS
-- JavaScript
 
 ## Features
 
