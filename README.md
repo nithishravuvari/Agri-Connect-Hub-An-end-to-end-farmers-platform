@@ -1,4 +1,11 @@
 # Agri Connect Hub : An end-to-end farmers platform
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+---
+
 A platform for farmers to sell their agricultural produce through online.
 
 Agri Connect Hub was developed using HTML, CSS, and JavaScript. The primary goal of this project is to empower farmers by providing them with a direct platform to sell their agricultural produce, eliminating the need for intermediaries. It aims to create a seamless online marketplace for farm goods.
