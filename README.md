@@ -1,13 +1,13 @@
-# Farm-E-Commerce-Website
-A website for farmers to sell their agricultural produce through an online platform
+# Agri Connect Hub : An end-to-end farmers platform
+A platform for farmers to sell their agricultural produce through online.
 
-This project is a Farm E-commerce Website developed using HTML, CSS, and JavaScript. The primary goal of this website is to empower farmers by providing them with a direct platform to sell their agricultural produce, eliminating the need for intermediaries. It aims to create a seamless online marketplace for farm goods.
+Agri Connect Hub was developed using HTML, CSS, and JavaScript. The primary goal of this project is to empower farmers by providing them with a direct platform to sell their agricultural produce, eliminating the need for intermediaries. It aims to create a seamless online marketplace for farm goods.
 
 #### Website link : https://nagireddy-seelam.github.io/E-Commerce/
 
 ## Project Details
 
-The Farm E-commerce Website is crafted using the following technologies:
+The Agri Connect Hub platform is crafted using the following technologies:
 - HTML
 - CSS
 - JavaScript
